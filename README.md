@@ -1,0 +1,13 @@
+# j4primeltekx-user 8.1.0 M1AJQ J415NKOU1ASB3 release-keys
+- manufacturer: samsung
+- platform: msm8937
+- codename: j4primeltekx
+- flavor: j4primeltekx-user
+- release: 8.1.0
+- id: M1AJQ
+- incremental: J415NKOU1ASB3
+- tags: release-keys
+- fingerprint: samsung/j4primeltekx/j4primeltekx:8.1.0/M1AJQ/J415NKOU1ASB3:user/release-keys
+- brand: samsung
+- branch: j4primeltekx-user-8.1.0-M1AJQ-J415NKOU1ASB3-release-keys
+- repo: samsung_j4primeltekx_dump

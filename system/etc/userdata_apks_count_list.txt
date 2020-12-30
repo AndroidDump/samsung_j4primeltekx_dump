@@ -1,0 +1,17 @@
+/data/app/SecEmail_O/SecEmail_O.apk
+/data/app/OneDrive_Samsung_v3_Removable/OneDrive_Samsung_v3_Removable.apk
+/data/app/Word_SamsungStub/Word_SamsungStub.apk
+/data/app/Facebook_stub_Removable/Facebook_stub_Removable.apk
+/data/app/Notes_Removable/Notes_Removable.apk
+/data/app/Music2/Music2.apk
+/data/app/SamsungMembers_Removable/SamsungMembers_Removable.apk
+/data/app/SecCalculator_N_R/SecCalculator_N_R.apk
+/data/app/VoiceNote_5.0/VoiceNote_5.0.apk
+/data/app/PowerPoint_SamsungStub/PowerPoint_SamsungStub.apk
+/data/app/Photos/Photos.apk
+/data/app/SBrowser_7.4_Removable/SBrowser_7.4_Removable.apk
+/data/app/Drive/Drive.apk
+/data/app/Duo/Duo.apk
+/data/app/Videos/Videos.apk
+/data/app/Excel_SamsungStub/Excel_SamsungStub.apk
+/data/app/SHealth5/SHealth5.apk

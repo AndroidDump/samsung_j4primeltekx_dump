@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+persist.security.ams.enforcing=1
+ro.oem_unlock_supported=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Feb 21 13:20:11 KST 2019
+ro.bootimage.build.date.utc=1550722811
+ro.bootimage.build.fingerprint=samsung/j4primeltekx/j4primeltekx:8.1.0/M1AJQ/J415NKOU1ASB3:user/release-keys
+persist.sys.usb.config=none
+

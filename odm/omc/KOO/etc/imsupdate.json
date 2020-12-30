@@ -1,0 +1,26 @@
+{
+  "update_version": 3,
+  "min_swver": "",
+  "note": "KOO Ims configs for specific models.",
+  "imsprofile_update": {
+    "profile": [
+      {        "name": "SKT VoLTE",        "mnoname": "SKT_KR",        "pcscf": "172.28.109.141,fd00:0e15:0501:5::141,172.28.109.73,fd00:e15:301:5::73,211.188.227.140,2001:2d8:e0:227::140",        "support_ipsec": true      },      {        "name": "SKT E911",        "mnoname": "SKT_KR",        "pcscf": "172.28.109.141,fd00:0e15:0501:5::141,172.28.109.73,fd00:e15:301:5::73,211.188.227.140,2001:2d8:e0:227::140"      }
+    ],
+    "remove_profile": [
+    ]
+  },
+  "globalsettings_update": {
+    "defaultsetting": {
+    },
+    "nohitsetting": {
+    },
+    "globalsetting": [
+    ]
+  },
+  "mnomap_update": {
+      "remove_mnomap": [
+      ],
+      "add_mnomap": [
+      ]
+  }
+}

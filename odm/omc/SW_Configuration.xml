@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-J415N</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>KOO</MultiCode>
+    <CustomerDataSet>
+        <CSCName>J415NKOO</CSCName>
+        <CSCVersion>1ASB3</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/KOO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>KOO</CustomerCode>
+            <Version>SAOMC_SM-J415N_KOO_KOO_OO_0004</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
